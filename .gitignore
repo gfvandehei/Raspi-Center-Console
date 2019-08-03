@@ -1,0 +1,4 @@
+Raspi-Center-Console-venv
+.vscode
+*__pycache__*
+*.egg-info
